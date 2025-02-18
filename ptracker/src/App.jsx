@@ -5,7 +5,7 @@ import Login from "./Pages/Login"; // Fixed path typo
 
 import { GoogleOAuthProvider } from "@react-oauth/google";
 
-const clientId = "146376685708-f3rlkc7qhdk8g5ob7g5bnmuarqpr7mbg.apps.googleusercontent.com";
+const clientId = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 function App() {
   return (
